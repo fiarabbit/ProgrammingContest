@@ -1,0 +1,12 @@
+---
+input: |-
+  ?tc????
+  coder
+expected: |-
+  atcoder
+---
+input: |-
+  ??p??d??
+  abc
+expected: |-
+  UNRESTORABLE

@@ -1,0 +1,25 @@
+---
+input: |-
+  SAINT HELENA
+expected: |-
+  YES
+---
+input: |-
+  SOUND HOUND
+expected: |-
+  YES
+---
+input: |-
+  SOUND SPIDER
+expected: |-
+  NO
+---
+input: |-
+  S H
+expected: |-
+  YES
+---
+input: |-
+  X Y
+expected: |-
+  NO

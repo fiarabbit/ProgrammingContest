@@ -1,0 +1,25 @@
+---
+input: |-
+  1 21
+expected: |-
+  Yes
+---
+input: |-
+  100 100
+expected: |-
+  No
+---
+input: |-
+  12 10
+expected: |-
+  No
+---
+input: |-
+  9 61
+expected: |-
+  Yes
+---
+input: |-
+  96 1
+expected: |-
+  Yes

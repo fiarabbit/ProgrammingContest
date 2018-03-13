@@ -1,0 +1,15 @@
+---
+input: |-
+  1118
+expected: |-
+  Yes
+---
+input: |-
+  7777
+expected: |-
+  Yes
+---
+input: |-
+  1234
+expected: |-
+  No

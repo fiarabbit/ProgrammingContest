@@ -1,0 +1,25 @@
+---
+input: |-
+  13 3 1
+expected: |-
+  3
+---
+input: |-
+  12 3 1
+expected: |-
+  2
+---
+input: |-
+  100000 1 1
+expected: |-
+  49999
+---
+input: |-
+  64146 123 456
+expected: |-
+  110
+---
+input: |-
+  64145 123 456
+expected: |-
+  109

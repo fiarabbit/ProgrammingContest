@@ -1,0 +1,25 @@
+---
+input: |-
+  1
+expected: |-
+  9
+---
+input: |-
+  2
+expected: |-
+  98
+---
+input: |-
+  123
+expected: |-
+  460191684
+---
+input: |-
+  36018
+expected: |-
+  966522825
+---
+input: |-
+  1000
+expected: |-
+  184984484

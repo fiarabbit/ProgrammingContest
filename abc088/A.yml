@@ -1,0 +1,18 @@
+---
+input: |-
+  2018
+  218
+expected: |-
+  Yes
+---
+input: |-
+  2763
+  0
+expected: |-
+  No
+---
+input: |-
+  37
+  514
+expected: |-
+  Yes

@@ -1,0 +1,20 @@
+---
+input: |-
+  2 3
+expected: |-
+  64
+---
+input: |-
+  4 3
+expected: |-
+  2588
+---
+input: |-
+  17 13
+expected: |-
+  229876268
+---
+input: |-
+  5000 100
+expected: |-
+  57613837

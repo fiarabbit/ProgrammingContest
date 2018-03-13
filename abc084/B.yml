@@ -1,0 +1,18 @@
+---
+input: |-
+  3 4
+  269-6650
+expected: |-
+  Yes
+---
+input: |-
+  1 1
+  ---
+expected: |-
+  No
+---
+input: |-
+  1 2
+  7444
+expected: |-
+  No

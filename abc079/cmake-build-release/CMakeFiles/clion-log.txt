@@ -1,0 +1,17 @@
+"C:\Program Files\JetBrains\CLion 2017.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Release -G "CodeBlocks - MinGW Makefiles" C:\Users\hashimoto\CLionProjects\ProgrammingContest\abc079
+-- The CXX compiler identification is GNU 6.3.0
+-- Check for working CXX compiler: C:/MinGW/bin/g++.exe
+-- Check for working CXX compiler: C:/MinGW/bin/g++.exe -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Boost version: 1.60.0
+-- C:/boost_1_60_0
+-- A.outA.cpp
+-- B.outB.cpp
+-- C.outC.cpp
+-- D.outD.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/hashimoto/CLionProjects/ProgrammingContest/abc079/cmake-build-release

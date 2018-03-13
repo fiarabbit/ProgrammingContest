@@ -1,0 +1,18 @@
+---
+input: |-
+  pot
+  top
+expected: |-
+  YES
+---
+input: |-
+  tab
+  bet
+expected: |-
+  NO
+---
+input: |-
+  eye
+  eel
+expected: |-
+  NO

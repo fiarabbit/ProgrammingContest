@@ -1,0 +1,32 @@
+---
+input: |-
+  2
+  5 2
+  3 3
+expected: |-
+  Aoki
+---
+input: |-
+  3
+  3 2
+  4 3
+  5 1
+expected: |-
+  Takahashi
+---
+input: |-
+  3
+  28 3
+  16 4
+  19 2
+expected: |-
+  Aoki
+---
+input: |-
+  4
+  3141 59
+  26535 897
+  93 23
+  8462 64
+expected: |-
+  Takahashi

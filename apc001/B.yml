@@ -1,0 +1,21 @@
+---
+input: |-
+  3
+  1 2 3
+  5 2 2
+expected: |-
+  Yes
+---
+input: |-
+  5
+  3 1 4 1 5
+  2 7 1 8 2
+expected: |-
+  No
+---
+input: |-
+  5
+  2 7 1 8 2
+  3 1 4 1 5
+expected: |-
+  No

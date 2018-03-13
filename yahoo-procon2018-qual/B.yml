@@ -1,0 +1,15 @@
+---
+input: |-
+  2018 2
+expected: |-
+  2100
+---
+input: |-
+  888 0
+expected: |-
+  889
+---
+input: |-
+  100 7
+expected: |-
+  10000000

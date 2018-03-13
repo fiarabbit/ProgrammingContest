@@ -1,0 +1,15 @@
+---
+input: |-
+  yahoo
+expected: |-
+  YES
+---
+input: |-
+  snuke
+expected: |-
+  NO
+---
+input: |-
+  yyyyy
+expected: |-
+  NO

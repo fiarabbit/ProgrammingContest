@@ -1,0 +1,15 @@
+---
+input: |-
+  3 8 7 1
+expected: |-
+  Left
+---
+input: |-
+  3 4 5 2
+expected: |-
+  Balanced
+---
+input: |-
+  1 7 6 4
+expected: |-
+  Right

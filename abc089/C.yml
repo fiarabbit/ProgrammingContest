@@ -1,0 +1,29 @@
+---
+input: |-
+  5
+  MASHIKE
+  RUMOI
+  OBIRA
+  HABORO
+  HOROKANAI
+expected: |-
+  2
+---
+input: |-
+  4
+  ZZ
+  ZZZ
+  Z
+  ZZZZZZZZZZ
+expected: |-
+  0
+---
+input: |-
+  5
+  CHOKUDAI
+  RNG
+  MAKOTO
+  AOKI
+  RINGO
+expected: |-
+  7

@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/hashimoto/CLionProjects/ProgrammingContest/arc090/test2.cpp
+iostream
+-
+vector
+-
+memory
+-
+unordered_map
+-
+deque
+-
+cassert
+-
+

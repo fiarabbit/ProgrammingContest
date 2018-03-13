@@ -1,0 +1,17 @@
+"C:\Program Files\JetBrains\CLion 2017.3\bin\cmake\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" C:\Users\hashimoto\CLionProjects\ProgrammingContest\arc090
+-- Boost version: 1.60.0
+-- C:/boost_1_60_0
+-- C.outC.cpp
+-- D.outD.cpp
+-- E.outE.cpp
+-- F.outF.cpp
+-- hoge.outhoge.cpp
+-- hogehoge.outhogehoge.cpp
+-- piyo.outpiyo.cpp
+-- piyopiyo.outpiyopiyo.cpp
+-- test.outtest.cpp
+-- test2.outtest2.cpp
+-- test3.outtest3.cpp
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/hashimoto/CLionProjects/ProgrammingContest/arc090/cmake-build-debug

@@ -1,0 +1,15 @@
+---
+input: |-
+  010
+expected: |-
+  2
+---
+input: |-
+  100000000
+expected: |-
+  8
+---
+input: |-
+  00001111
+expected: |-
+  4

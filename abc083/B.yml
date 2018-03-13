@@ -1,0 +1,15 @@
+---
+input: |-
+  20 2 5
+expected: |-
+  84
+---
+input: |-
+  10 1 2
+expected: |-
+  13
+---
+input: |-
+  100 4 16
+expected: |-
+  4554

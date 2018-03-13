@@ -1,0 +1,10 @@
+---
+input: |-
+  8 6
+expected: |-
+  16
+---
+input: |-
+  3 3
+expected: |-
+  -1

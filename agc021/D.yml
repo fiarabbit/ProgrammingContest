@@ -1,0 +1,12 @@
+---
+input: |-
+  abcabcabc
+  1
+expected: |-
+  7
+---
+input: |-
+  atcodergrandcontest
+  3
+expected: |-
+  15

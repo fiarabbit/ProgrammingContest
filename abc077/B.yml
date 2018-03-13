@@ -1,0 +1,15 @@
+---
+input: |-
+  10
+expected: |-
+  9
+---
+input: |-
+  81
+expected: |-
+  81
+---
+input: |-
+  271828182
+expected: |-
+  271821169

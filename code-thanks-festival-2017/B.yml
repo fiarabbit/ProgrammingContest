@@ -1,0 +1,20 @@
+---
+input: |-
+  abcde
+expected: |-
+  4
+---
+input: |-
+  level
+expected: |-
+  0
+---
+input: |-
+  codethanksfestival
+expected: |-
+  17
+---
+input: |-
+  abcdefghijklmnopqrstuvwxyzyxwvutsrqponmlkjihgfedcb
+expected: |-
+  1

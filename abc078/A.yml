@@ -1,0 +1,15 @@
+---
+input: |-
+  A B
+expected: |-
+  <
+---
+input: |-
+  E C
+expected: |-
+  >
+---
+input: |-
+  F F
+expected: |-
+  =

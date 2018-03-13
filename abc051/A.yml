@@ -1,0 +1,15 @@
+---
+input: |-
+  happy,newyear,enjoy
+expected: |-
+  happy newyear enjoy
+---
+input: |-
+  haiku,atcoder,tasks
+expected: |-
+  haiku atcoder tasks
+---
+input: |-
+  abcde,fghihgf,edcba
+expected: |-
+  abcde fghihgf edcba
